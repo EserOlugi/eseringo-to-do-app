@@ -1,4 +1,4 @@
-📂 eseringo - Modern Yapılacaklar Listesi Uygulaması
+📂 eseringo - Modern To-Do App
 
 Bu proje, kullanıcının günlük görevlerini yönetebileceği, tarayıcı tabanlı, modern ve kullanıcı dostu bir yapılacaklar listesi uygulamasıdır.
 GitHub portfolyosu için temel JavaScript yeteneklerini sergilemek amacıyla geliştirilmiştir.
@@ -28,3 +28,4 @@ JavaScript (ES6+) : DOM manipülasyonu, Array metodları ve LocalStorage yöneti
 GitHub : @EserOlugi (https://github.com/EserOlugi)
 
 LinkedIn : @AyvazEserÖlugi (https://www.linkedin.com/in/ayvaz-eser-%C3%B6lugi/)
+
