@@ -23,11 +23,8 @@ CSS3 : Özel animasyonlar ve modern tasarım (Poppins Font, FontAwesome Ikonlar�
 
 JavaScript (ES6+) : DOM manipülasyonu, Array metodları ve LocalStorage yönetimi.
 
-👤 Proje Sahibi
-
-Ayvaz Eser Ölugi
+👤 Proje Sahibi : Ayvaz Eser Ölugi
 
 GitHub : @EserOlugi (https://github.com/EserOlugi)
 
 LinkedIn : @AyvazEserÖlugi (https://www.linkedin.com/in/ayvaz-eser-%C3%B6lugi/)
-
