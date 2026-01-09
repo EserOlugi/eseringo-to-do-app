@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eseringo - Modern Todo App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Yapılacaklar Listem</h1>
+            <p id="date"></p>
+        </header>
+
+        <div class="input-group">
+            <input type="text" id="todo-input" placeholder="Yeni bir görev ekle...">
+            <button id="add-btn"><i class="fas fa-plus"></i></button>
+        </div>
+
+        <div class="filters">
+            <span class="active" data-filter="all">Hepsi</span>
+            <span data-filter="pending">Yapılacak</span>
+            <span data-filter="completed">Tamamlanan</span>
+            <button id="clear-all"><i class="fas fa-trash-alt"></i> Hepsini Temizle</button>
+        </div>
+
+        <ul id="todo-list">
+            </ul>
+        <footer style="margin-top: 20px; font-size: 12px; color: #a0a0a0; text-align: center;">
+            Developed by <a href="https://github.com/EserOlugi" target="_blank" style="color: #6c5ce7; text-decoration: none; font-weight: bold;">Ayvaz Eser Ölugi</a>
+        </footer>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
